@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=michalwiacek&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D.svg?logo=ruby&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asass"><img alt="SASS" src="https://img.shields.io/badge/Sass%20-hotpink.svg?logo=SASS&logoColor=white"></a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=michalwiacek&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)
+
+<!-- [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=michalwiacek&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
