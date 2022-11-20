@@ -36,3 +36,6 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=michalwiacek&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)
 
 <!-- [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=michalwiacek&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+#### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=michalwiacek.michalwiacek)
