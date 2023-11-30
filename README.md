@@ -25,7 +25,7 @@ I'm software dev based in Warsaw. *Don't mind junk repos in this profile
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#)
 
 #### 🌱 Learning
-[![GoLang Badge](https://img.shields.io/badge/-Go-e535ab?style=for-the-badge&labelColor=black&logo=go&logoColor=e535ab)](#)
+[![GoLang Badge](https://img.shields.io/badge/-Go-00add8?style=for-the-badge&labelColor=black&logo=go&logoColor=00add8)](#)
 
 ####
 <!-- https://github.com/anuraghazra/github-readme-stats -->
