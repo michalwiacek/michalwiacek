@@ -13,16 +13,19 @@ Here are some ideas to get you started:
 -->
 I'm software dev based in Warsaw. *Don't mind junk repos in this profile
 
-- 🔭 I’m currently looking for a new job.
+<!-- - 🔭 I’m currently looking for a new job. -->
 - 📫 How to reach me: michal.wiacek@pm.me
 
 
-#### Top Technologies
+#### ✨ Top Technologies
 
 [![Ruby Badge](https://img.shields.io/badge/-Ruby-red?style=for-the-badge&labelColor=black&logo=ruby&logoColor=red)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#)
+
+#### 🌱 Learning
+[![GoLang Badge](https://img.shields.io/badge/-Go-e535ab?style=for-the-badge&labelColor=black&logo=go&logoColor=e535ab)](#)
 
 ####
 <!-- https://github.com/anuraghazra/github-readme-stats -->
