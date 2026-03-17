@@ -42,5 +42,3 @@ michal.wiacek@pm.me
 </details>
 
 ---
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=michalwiacek.michalwiacek)
