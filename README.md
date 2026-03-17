@@ -2,8 +2,8 @@
 
 I'm **Michał Wiącek**, a backend engineer based in Warsaw.
 
-I work on **distributed systems, real-time platforms and high-throughput backend services**.  
-Currently contributing to systems powering **real-time advertising infrastructure**.
+I work on distributed systems and high-throughput backend services, with a focus on real-time platforms.  
+My team builds systems powering real-time advertising — sometimes in unexpected places (yes, even fridges).
 
 ---
 
